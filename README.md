@@ -2,7 +2,15 @@
 ##### I'm Yashasav Prajapati, currently pursuing a bachelor's degree in Computer Science and Technology from <b> Indian Institute of Technology, Ropar </b>. I'm interested in Web-Development, Image processing, and Data Structures and Algorithms.
 
 
-
+# 🌐 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/yashasav-p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant-prakash-singh-625b21224" height="30" width="40" /></a>
+<a href="https://twitter.com/yashasv_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anant733n" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yashasav_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="theviking733n" height="30" width="40" /></a>
+<a href="https://leetcode.com/yamuprajapati05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theviking733n" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/yamuprajapati05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anant733n" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/8559174/yashasav-prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17778794" height="30" width="40" /></a>
+</p>
 
 
  <!--# 💻 Tech Stack: -->
