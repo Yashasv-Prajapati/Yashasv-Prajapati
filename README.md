@@ -1,5 +1,5 @@
 ## Hi there, Welcome to my github profile 👋 
-##### I'm Yashasav Prajapati, currently pursuing a bachelor's degree in Computer Science and Technology from <b> Indian Institute of Technology, Ropar </b>. I'm interested in Web-Development, Image processing, and Data Structures and Algorithms.
+<h3> I'm Yashasav Prajapati, currently pursuing a bachelor's degree in Computer Science and Technology from <b> Indian Institute of Technology, Ropar </b>. I'm interested in Web-Development, Image processing, and Data Structures and Algorithms.</h3>
 
 
 # 🌐 Connect with me:
@@ -12,6 +12,7 @@
 <a href="https://stackoverflow.com/users/8559174/yashasav-prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17778794" height="30" width="40" /></a>
 </p>
 
+<br/>
 
  <!--# 💻 Tech Stack: -->
 # 🧰 My Toolkit
