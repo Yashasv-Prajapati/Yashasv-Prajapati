@@ -31,7 +31,7 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasv-Prajapati&theme=dark" alt="TheViking" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasv-Prajapati&theme=dark" alt="Yashasav-Prajapati" /></p>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Yashasv-Prajapati.svg?style=social&label=Follow)](https://github.com/Yashasv-Prajapati?tab=followers)
